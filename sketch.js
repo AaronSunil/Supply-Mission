@@ -63,7 +63,7 @@ function keyPressed() {
 	packageSprite.y= packageBody.position.y 
 	var packageBodyChanges = 
 	{
-		isStatic = false
+		isStatic: not
 	}
   }
 }
